@@ -8,3 +8,7 @@ Shift-reduce algorithm by Python programming language for the grammar and parsin
 4. T -> F
 5. F -> (E)
 6. F -> id
+
+
+
+![sralgotable](https://github.com/user-attachments/assets/cd994f57-aeb9-422e-ac6a-a5dfbb4c7252)
